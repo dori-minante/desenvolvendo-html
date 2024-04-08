@@ -1,6 +1,7 @@
 form {
   padding-left: 20px;
   margin: 40px 0;
+  margin-left: 20px;
 }
 
 form label,
@@ -8,8 +9,15 @@ form legend {
   display: block;
   font-size: 20px;
   margin: 0 0 10px;
+  
+}
+.contato {
+  text-align: center;
 }
 
+.field {
+  width: 33%;
+}
 .input-padrao {
   display: block;
   margin: 0 0 20px;
@@ -37,4 +45,5 @@ form legend {
 .endereco {
   padding-left: 20px;
   margin: 40px 0;
+  text-align: center;
 }
